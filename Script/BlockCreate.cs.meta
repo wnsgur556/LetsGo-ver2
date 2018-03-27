@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 662a9dd7c029ad84aa98f08132441439
+timeCreated: 1471790757
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Block1: {fileID: 185106, guid: 23433fc928cf3bd48abe52e7e6a239bb, type: 2}
+  - Block2: {fileID: 134552, guid: 8cf6dc3503021cc4ca26c60bd93de781, type: 2}
+  - Block3: {fileID: 150846, guid: e5056b4970be49748999e1f96a63fbfc, type: 2}
+  - Block4: {fileID: 106494, guid: 04386d92aa17d384e8d42c24d929f182, type: 2}
+  - Block5: {fileID: 186716, guid: e56fa6b53a785214692d83b6d12b8a9c, type: 2}
+  - Block6: {fileID: 186524, guid: a9e357e1b3228d74db66451f8638adb4, type: 2}
+  - Block7: {fileID: 163760, guid: daf1fbf8dcd8f2e448708813be40e4ad, type: 2}
+  - Block8: {fileID: 156080, guid: 7e2d6fb72b5233b46a43c0b9c3d9354a, type: 2}
+  - Block9: {fileID: 188452, guid: a65e72ebe4a3a3c4195ec76f39b5f4df, type: 2}
+  - Block10: {fileID: 142266, guid: cc40c536d2e6da94aa3f61e3c47b2e75, type: 2}
+  - Block11: {fileID: 149514, guid: 63d9f1f3bdbbe7d46b71c046ed26c693, type: 2}
+  - Block12: {fileID: 149514, guid: 2f81947eba9a0a943a7bf44617806df9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
